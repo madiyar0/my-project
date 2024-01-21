@@ -1,0 +1,147 @@
+/* section1 */
+
+.whatMakes__h1 h1{
+    text-align: center;
+    margin-top: 70px;
+    color: #2A254B;
+    font-size: 24px;
+}
+.next__day{
+    background: rgb(248, 248, 248);
+    width: 250px;
+    height: 150px;
+    text-align: left;
+    padding: 48px;
+    margin-left: 45px;
+}
+.made__by{
+    background: rgb(248, 248, 248);
+    width: 250px;
+    height: 150px;
+    margin-left: 20px;
+    text-align: left;
+    padding: 48px;
+}
+.unbeatble__prices{
+    background: rgb(248, 248, 248);
+    width: 250px;
+    height: 150px;
+    margin-left: 20px;
+    text-align: left;
+    padding: 48px;
+}
+.recycled__packaging{
+    background: rgb(248, 248, 248);
+    width: 250px;
+    height: 150px;
+    padding: 48px;
+    text-align: left;
+    margin-left: 20px;
+}
+.whatMakes__tabs{
+    display: flex;
+}
+
+/* section2 */
+
+.new__ceramics{
+    display: flex;
+    justify-content: center;
+}
+.section2{
+    margin-top: 200px;
+}
+.h1{
+    margin-left: 50px;
+}
+.dandy__chair{
+    width: 305px;
+    height: 400x;
+    margin-right: 20px;
+}
+.dandy__chair:hover{
+    scale: 1.03;
+}
+.rustic__vase{
+    width: 305px;
+    height: 400x;
+    margin-right: 10px;
+}
+.rustic__vase:hover{
+    scale: 1.03;
+}
+.silky__vase{
+    width: 305px;
+    height: 400x;
+    margin-left: 10px;
+}
+.silky__vase:hover{
+    scale: 1.03;
+}
+.lucy__lamp{
+    width: 305px;
+    height: 400x;
+    margin-left: 20px;
+}
+.lucy__lamp:hover{
+    scale: 1.03;
+}
+.dandy__view{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 600px;
+    justify-content: center;
+    height: 56px;
+    width: 170px;
+    border: none;
+    background-color: rgb(242, 242, 242);
+}
+.dandy__view:active{
+    background-color: lightgray
+}
+
+/* section3 */
+
+.section3{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.it__started{
+    background-color: #2A254B;
+    width: 550px;
+    margin-left: 80px;
+    height: 420px;
+    padding-top: 30px;
+    padding-left: 50px;
+    color: white;
+}
+
+.room__img{
+    width: 600px;
+    height: 450px;
+    margin-left: 20px;
+}
+.room__img img{
+    width: 600px;
+    height: 450px;
+}
+.started__collection{
+    height: 56px;
+    width: 170px;
+    border: none;
+    color: white;
+    margin-top: 180px;
+    background: rgba(249, 249, 249, 0.15);
+}
+.started__collection:active{
+    background: rgba(176, 176, 176, 0.15);
+}
+
+/* section4 */
+
+.section4 img{
+    width: 1381px;
+}

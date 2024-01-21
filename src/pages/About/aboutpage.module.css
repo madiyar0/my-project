@@ -1,0 +1,27 @@
+@import url('https://fonts.cdnfonts.com/css/visby');
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+@import url('https://fonts.cdnfonts.com/css/kids-rikai');
+
+.section1{
+    font-family: "Visby";
+    font-size: 23px;
+    height: 246px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center ;
+}
+.section1 h1{
+    text-align: center;
+    align-items: center ;
+}
+/* section2 */
+
+.from__studio h1{
+    font-family: "Satoshi";
+}
+.from__studio p{
+    font-size: 16px;
+    font-weight: 100;
+    line-height: normal;
+}
