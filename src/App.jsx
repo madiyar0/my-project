@@ -6,6 +6,7 @@ import Header from './components/Header/Header';
 import HomePage from "./pages/Home/HomePage"
 import AboutPage from "./pages/About/AboutPage"
 import ContactPage from "./pages/Contact/ContactPage"
+import Footer from './components/Footer/Footer';
 
 const App = () => {
   return (
@@ -17,6 +18,8 @@ const App = () => {
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
       </Routes>
+
+      <Footer/>
     </div>
   );
 }

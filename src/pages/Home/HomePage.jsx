@@ -1,16 +1,24 @@
 import React from 'react';
 import styles from'./homepage.module.css'
 import Main from '../../components/Main/Main';
+import Footer from '../../components/Footer/Footer';
 
 const Home = () => {
     return (
         <div className={styles.homepage}>
-            <div className="header">
-                <div className={styles.homeImg}>
-
-                </div>
-            </div>
             <div className="main">
+                <section className={styles.section1}>
+                    <div className={styles.the__furniture}>
+                        <h1>The furniture brand for the <br /> future, with timeless designs</h1>
+                        <button>View collection</button>
+                        <p>A new era in eco friendly furniture with Avelon, the French luxury retail brand <br />
+                        with nice fonts, tasteful colors and a beautiful way to display things digitally <br />
+                        using modern web technologies.</p>
+                    </div>  
+                    <div className={styles.chair__img}>
+                        <img src="./images/Photo.png" alt="" />
+                    </div>
+                </section>
                 <Main />
                 <section className={styles.section2}>
                         <h1 className={styles.h1}>New Ceramics</h1>

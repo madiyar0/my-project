@@ -18,7 +18,7 @@
 /* section2 */
 
 .from__studio{
-    margin: 50px 78px 25px 61px;
+    margin: 50px 78px 25px 100px;
 }
 
 .from__studio h1{
@@ -45,11 +45,11 @@
     display: flex;
 }
 .studio__img img{
-    width: 700px;
-    height: 550px;
+    width: 770px;
+    height: 600px;
 }
 .studio__img{
-    margin-left: 22px;
+    margin-left: 59px;
 }
 /* section3 */
 
@@ -64,8 +64,8 @@
     font-family: "Satoshi";
 }
 .service__img img{
-    width: 681px;
-    height: 550px;
+    width: 750px;
+    height: 600px;
 }
 .our__service p{
     font-size: 16px;

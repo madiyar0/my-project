@@ -1,0 +1,36 @@
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+
+.footer{
+    background-color: #2a254b;
+    color: #fff;
+    font-family: "Satoshi";
+    height: 380px;
+}
+.section1{
+    display:flex;
+}
+.list{
+    color: #fff;
+    margin-bottom: 30px;
+    display: flex;
+}
+.list ul{
+    list-style: none;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 27px;
+}
+.list li{
+    opacity: 0.8;
+    margin-bottom: 11px;
+    font-size: 14px;
+}
+.join{
+    margin: 35px 0 0 150px;
+    font-size: 14px;
+}
+.copy{
+    margin-left: 90px;
+    opacity: 0.8;
+    font-size: 14px;
+}

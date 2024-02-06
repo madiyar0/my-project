@@ -1,3 +1,38 @@
+/* section1 */
+.section1{
+    display: flex;
+    margin: 80px 50px;
+}
+.the__furniture{
+    background-color: #2A254B;
+    color: white;
+    font-family:"Satoshi";
+    height: 450px;
+    width: 680px;
+    margin-left: 65px;
+    padding: 50px;
+}
+.the__furniture p{
+    margin-top: 170px;
+}
+.the__furniture button{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    color: var(--White, #fff);
+    width: 140px;
+    background: rgba(249, 249, 249, 0.15);
+    border: none;
+}
+.the__furniture button:active{
+    background: rgba(169, 169, 169, 0.15) ;
+}
+.chair__img img{
+    height: 550px;
+    width: 500px;
+}
 /* section2 */
 
 .new__ceramics{
@@ -5,10 +40,10 @@
     justify-content: center;
 }
 .section2{
-    margin-top: 200px;
+    margin-top: 100px;
 }
 .h1{
-    margin-left: 50px;
+    margin-left: 110px;
 }
 .dandy__chair{
     width: 305px;
@@ -62,27 +97,28 @@
 .section3{
     display: flex;
     margin-top: 100px;
+    margin-left: 80px;
     margin-bottom: 50px;
 }
 
 .it__started{
     background-color: #2A254B;
-    width: 550px;
-    margin-left: 80px;
-    height: 420px;
+    width: 590px;
+    margin-left: 50px;
+    height: 450px;
     padding-top: 30px;
     padding-left: 50px;
     color: white;
 }
 
 .room__img{
-    width: 600px;
-    height: 450px;
+    width: 620px;
+    height: 480px;
     margin-left: 20px;
 }
 .room__img img{
-    width: 600px;
-    height: 450px;
+    width: 620px;
+    height: 480px;
 }
 .started__collection{
     height: 56px;

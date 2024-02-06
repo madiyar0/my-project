@@ -1,3 +1,7 @@
+.main{
+    margin-bottom: 50px;
+}
+
 .whatMakes__h1 h1{
     text-align: center;
     margin-top: 70px;
@@ -5,7 +9,7 @@
     font-size: 24px;
 }
 .next__day{
-    background: rgb(248, 248, 248);
+    background: white;
     width: 250px;
     height: 150px;
     text-align: left;
@@ -13,7 +17,7 @@
     margin-left: 45px;
 }
 .made__by{
-    background: rgb(248, 248, 248);
+    background: white;
     width: 250px;
     height: 150px;
     margin-left: 20px;
@@ -21,7 +25,7 @@
     padding: 48px;
 }
 .unbeatble__prices{
-    background: rgb(248, 248, 248);
+    background: white;
     width: 250px;
     height: 150px;
     margin-left: 20px;
@@ -29,7 +33,7 @@
     padding: 48px;
 }
 .recycled__packaging{
-    background: rgb(248, 248, 248);
+    background: white;
     width: 250px;
     height: 150px;
     padding: 48px;
@@ -38,4 +42,27 @@
 }
 .whatMakes__tabs{
     display: flex;
+}
+/* section2 */
+
+.join__the__club{
+    background-color: rgb(170, 170, 170);
+    width: 1440px;
+    height: 480px;
+    height: 481px; 
+}
+.join__sing__up{
+    text-align: center;
+}
+.join__sing__up h1{
+    font-size: 34px;
+}
+.join__sing__up p{
+    margin-bottom: 70px;
+}
+.join__sing__up button{
+    height: 55px;
+    width: 100px;
+    background-color: #2A254B;
+    color: white;
 }
